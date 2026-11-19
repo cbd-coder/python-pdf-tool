@@ -4,11 +4,10 @@ FIX: Removed the global Tk font option that caused:
     _tkinter.TclError: expected integer but got "Gothic"
 
 How to use:
-1. Extract this ZIP into a NEW folder (do not mix it with older versions).
-2. Double-click launch.bat.
-3. If PyMuPDF is missing, run install.bat, then launch.bat.
-4. If there is still an error, run diagnose.bat and share a screenshot.
-5. Create a desktop shortcut to launch.bat. Keep the application folder in place.
+1. Double-click launch.bat.
+2. If PyMuPDF is missing, run install.bat, then launch.bat.
+3. If there is still an error, run diagnose.bat and share a screenshot.
+4. Create a desktop shortcut to launch.bat. Keep the application folder in place.
 
 Features: replace text (simple ASCII layouts), merge PDFs, split PDFs,
 reorder pages, set opening passwords, remove opening passwords with permission.
